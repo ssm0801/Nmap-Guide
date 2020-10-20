@@ -147,6 +147,7 @@ The `-s` switch determines the type of scan to perform.
 | **-sT**     | TCP connect scan            |
 | **-sW**     | Windows scan                |
 | **-sX**     | XMAS scan                   |
+| **-sU**     | UDP Port scan               |
 
 ### Scan a Single Target
 ```shell
