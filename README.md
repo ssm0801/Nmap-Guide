@@ -225,6 +225,10 @@ nmap -sU -sT -p U:[ports],T:[ports] [target]
 ```shell
 nmap -p 1-65535 [target]
 ```
+or
+```shell
+nmap -p- [target]
+```
 
 ### Scan Top Ports
 ```shell
